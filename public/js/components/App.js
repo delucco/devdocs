@@ -3,7 +3,6 @@ var Sidebar = require('./Sidebar');
 var Documentation = require('./Documentation');
 var Resources = require('./Resources');
 var AppStore = require('../store/AppStore');
-
 var injectTapEventPlugin = require("react-tap-event-plugin");
 
 var host = window.location.origin || 'http://localhost:3000';

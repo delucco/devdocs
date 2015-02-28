@@ -50,11 +50,4 @@ var Question = React.createClass({
 
 module.exports = Question;
 
-    // <DropDownMenu menuItems={answerNodes} />
-    // var answerNodes = this.props.answers.map(function(answer){
-    //   return (
-    //     <div className="answer" dangerouslySetInnerHTML={{__html: answer.body}}></div>
-    //   )
-    // });
-// answerNodes.push(<div className="answer" dangerouslySetInnerHTML={{__html: this.props.answers[i].body}}></div>);
-        // <div className="answers"></div>
+
